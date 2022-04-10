@@ -9,3 +9,5 @@
 - The file or shortcut is corrupt.
 - The file may be blocked by Windows.
 - Your antivirus software may be blocking the file.
+
+![This is an image](unnamed.png)  
