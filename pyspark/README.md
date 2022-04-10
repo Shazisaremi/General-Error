@@ -11,3 +11,12 @@
 - Your antivirus software may be blocking the file.
 
 ![This is an image](unnamed.png)  
+
+# Py4JJavaError
+
+### This issue can occur if any of the following scenarios exist:
+- You do not hava instaled the Java JDK
+- The Java JDK in not in your Environment Path
+- The pyspark version is old
+- restart the jupyter lab kernel if none of the above mentioned. 
+
