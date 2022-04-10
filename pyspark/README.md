@@ -20,3 +20,4 @@
 - The pyspark version is old
 - restart the jupyter lab kernel if none of the above mentioned. 
 
+![](py4j.png)
