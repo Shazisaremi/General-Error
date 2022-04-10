@@ -8,4 +8,5 @@ We’re using Discussions as a place to connect with other members of our commun
 - Engage with other community members.
 - Welcome others and are open-minded. Remember that this is a community we
 build together 💪.
-To get started : 
+To get started : https://github.com/Shazisaremi/General-Error/discussions
+
