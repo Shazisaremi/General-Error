@@ -10,7 +10,7 @@
 - The file may be blocked by Windows.
 - Your antivirus software may be blocking the file.
 
-![This is an image](unnamed.png)  
+![](unnamed.png)  
 
 # Py4JJavaError
 
