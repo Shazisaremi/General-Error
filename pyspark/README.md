@@ -20,8 +20,8 @@
 2. The Java JDK in not in your Environment Path
 3. The pyspark version is old
 4. restart the jupyter lab kernel if none of the above mentioned. 
-5. PYSPARK_PYTHON variable not defind in environment
-- Windows OS
+6. PYSPARK_PYTHON variable not defind in environment
+- ### Windows OS
 - 1. search for *Edit the system environment variables* in the Start menu and click. 
 - ![](PYSPARK_PYTHON_1.png)
 - 2. Click on *Environment Variables...* 
