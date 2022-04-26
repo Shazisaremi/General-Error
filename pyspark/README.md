@@ -15,9 +15,10 @@
 # Py4JJavaError
 
 ### This issue can occur if any of the following scenarios exist:
-- You do not hava instaled the Java JDK
-- The Java JDK in not in your Environment Path
-- The pyspark version is old
-- restart the jupyter lab kernel if none of the above mentioned. 
+-1 You do not hava instaled the Java JDK
+-2 The Java JDK in not in your Environment Path
+-3 The pyspark version is old
+-4 restart the jupyter lab kernel if none of the above mentioned. 
+-5 PYSPARK_PYTHON variable not defind in environment
 
 ![](py4j.png)
