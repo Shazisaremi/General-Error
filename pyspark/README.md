@@ -1,5 +1,6 @@
 # Path Does not Exist Error
 
+![](unnamed.png)  
 
 ### This issue can occur if any of the following scenarios exist on your PC.
 
@@ -10,9 +11,9 @@
 - The file may be blocked by Windows.
 - Your antivirus software may be blocking the file.
 
-![](unnamed.png)  
-
 # Py4JJavaError
+
+![](py4j.png)
 
 ### This issue can occur if any of the following scenarios exist:
 1. You do not hava instaled the Java JDK
@@ -21,8 +22,11 @@
 4. restart the jupyter lab kernel if none of the above mentioned. 
 5. PYSPARK_PYTHON variable not defind in environment
 - Windows OS
-- 1. search for *Edit the system environment variables* in the Start menu and click. ![](PYSPARK_PYTHON_1.png)
-- 2. Click on *Environment Variables...* ![](PYSPARK_PYTHON_2.png)
-- 3. Add new variable named *PYSPARK_HOME* to your anaconda path where *python.exe* exists like the image ![](PYSPARK_PYTHON_3.png)
+- 1. search for *Edit the system environment variables* in the Start menu and click. 
+- ![](PYSPARK_PYTHON_1.png)
+- 2. Click on *Environment Variables...* 
+- ![](PYSPARK_PYTHON_2.png)
+- 3. Add new variable named *PYSPARK_HOME* to your anaconda path where *python.exe* exists like the image 
+- ![](PYSPARK_PYTHON_3.png)
 
-![](py4j.png)
+
