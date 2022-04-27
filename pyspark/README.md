@@ -28,7 +28,7 @@
 - 2. Click on *Environment Variables...* 
 
 ![](PYSPARK_PYTHON_2.png)
-- 3. Add new variable named *PYSPARK_HOME* to your anaconda path where *python.exe* exists like the image 
+- 3. Add new variable named *PYSPARK_PYTHON* to your anaconda path where *python.exe* exists like the image 
 
 ![](PYSPARK_PYTHON_3.png)
 
