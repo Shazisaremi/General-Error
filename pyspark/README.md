@@ -37,7 +37,7 @@
 ![](Invalid_Spark_URL.png)
 ### Solution:
 I set the command , and now to make it definitively, I closed the Jupyter Notebook console and it worked. 
-Definitive command: SETX SPARK_LOCAL_HOSTNAME localhost
+Definitive command: `SETX SPARK_LOCAL_HOSTNAME localhost`
 
 
 
